@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**oddmentiusmaximus/oddmentiusmaximus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Sawan </h1>
+<h3 align="center">Cross Platform Development Specialist </h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oddmentiusmaximus&label=Profile%20views&color=0e75b6&style=flat" alt="oddmentiusmaximus" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 Checkout articles [https://medium.com/@pimpalkhare.sawan](https://medium.com/@pimpalkhare.sawan)
+
+- 💬 Ask me about **Dart, <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+	<path fill="#1d78db" d="M7.375 16q-.075-.1.488-.788T9.15 13.75q.825-.925 1.925-2.05q.3-.45.825-.45t.875.4q.3.4.225.913t-.55.737q-1.375.825-2.45 1.45q-.95.525-1.75.938T7.375 16m3.375 7q-.125 0-.25-.05t-.2-.175q-.1-.15-.2-.413t-.1-.612q0-.225.025-.413t.075-.387q-.675-.125-1.137-.675T8.5 19q0-.1.075-.525q-1.85-.65-2.988-2.075t-1.462-3.675q-.125.125-.275.2T3.5 13q-.375 0-.937-.562T2 10q0-1.725 1.013-3.113T5 5.5q.325 0 .413.288t.087.562Q6.45 5 7.888 4.125T11.05 3.05q.15-.725.725-1.137T13 1.5v1q.1-.15.25-.25q.125-.1.313-.175T14 2t.438.075t.312.175q.15.1.25.25q-.375 0-.625.225t-.325.55q1.35.35 2.5 1.15T18.5 6.35q0-.275.088-.562T19 5.5q.975 0 1.988 1.388T22 10q0 1.875-.562 2.438T20.5 13q-.175 0-.337-.062t-.288-.188q-.35 2.5-1.713 3.988t-3.612 1.987q.075.35.338.563t.612.212h.575q.175 0 .3.1t.175.25q.125.4.438.75t.587.575q.2.175.188.413t-.213.362q-.275.2-.7.35t-1.1.2q-.125 0-.25-.05t-.2-.175q-.1-.15-.2-.412t-.1-.613q0-.225.025-.413t.075-.387q-.6-.125-1.012-.55t-.538-1q-.375.05-.75.075T12 19q-.65 0-1.263-.062T9.55 18.75L9.5 19q0 .425.288.713T10.5 20h.575q.175 0 .3.1t.175.25q.125.4.438.75t.587.575q.2.175.188.413t-.213.362q-.275.2-.7.35t-1.1.2m8-9.775q.125-.5.188-1.05T19 11q0-2.9-2.05-4.95T12 4T7.05 6.05T5 11q0 .6.063 1.15t.187 1.05q.125-.5.338-.987t.487-.913q-.15-.35-.238-.737T5.75 9.75q0-1.575 1.088-2.662T9.5 6q.725 0 1.363.263T12 6.975q.5-.45 1.138-.712T14.5 6q1.575 0 2.663 1.088T18.25 9.75q0 .425-.088.813t-.262.737q.275.425.5.913t.35 1.012M12 18q2.175 0 3.663-.675t2.312-2.025q0-.075.013-.15T18 15q0-.75-.175-1.45t-.525-1.325q-.525.575-1.237.925t-1.563.35q-.2 0-.4-.025t-.4-.075q.125-.175.188-.363t.087-.387q.025-.05.025-.1v-.1q.125.025.25.038t.25.012q1.15 0 1.95-.8t.8-1.95t-.8-1.95T14.5 7q-.5 0-.975.188t-.85.537l-.675.6l-.675-.6q-.375-.35-.85-.537T9.5 7q-1.15 0-1.95.8t-.8 1.95q0 1.025.638 1.763t1.587.937l-.75.825q-.45-.175-.837-.437t-.688-.613q-.35.625-.525 1.325T6 15v.25q.85 1.35 2.35 2.05T12 18m2.5-6.5q-.625 0-1.062-.513T13 9.75t.438-1.237T14.5 8t1.063.513T16 9.75t-.437 1.238t-1.063.512m.375-2.25q.175 0 .275-.112t.1-.263t-.112-.262t-.263-.113q-.175 0-.275.113t-.1.262q0 .175.113.275t.262.1M9.5 11.5q-.625 0-1.062-.513T8 9.75t.438-1.237T9.5 8t1.063.513T11 9.75t-.437 1.238T9.5 11.5m.375-2.25q.175 0 .275-.112t.1-.263t-.112-.262t-.263-.113q-.175 0-.275.113t-.1.262q0 .175.113.275t.262.1" />
+</svg> Flutter, kotlin, android/ios, React**
+
+- 📫 How to reach me **pimpalkhare.sawan@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/sawan-pimpalkhare-50463a159](https://www.linkedin.com/in/sawan-pimpalkhare-50463a159/)
+
+- ⚡ Fun fact **I used to be pro Table Tennis Player**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sawan_manas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oddmentiusmaximus" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sawan-pimpalkhare-50463a159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oddmentiusmaximus" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techieasif&show_icons=true&locale=en" alt="techieasif" /></p> -->
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techieasif&" alt="techieasif" /></p> -->
