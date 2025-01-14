@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **pimpalkhare.sawan@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sawan-pimpalkhare-50463a159](https://www.linkedin.com/in/sawan-pimpalkhare-50463a159/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/sawan-pimpalkhare](https://www.linkedin.com/in/sawan-pimpalkhare-50463a159/)
 
 - ⚡ Fun fact **I used to be pro Table Tennis Player**
 
